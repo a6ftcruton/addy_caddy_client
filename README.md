@@ -16,10 +16,6 @@ Or install it yourself as:
 
     $ gem install addy_caddy_client
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/addy_caddy_client/fork )
