@@ -1,6 +1,6 @@
 # AddyCaddyClient
 
-TODO: Write a gem description
+A minimal helper for FourSquare API requests using an address
 
 ## Installation
 
